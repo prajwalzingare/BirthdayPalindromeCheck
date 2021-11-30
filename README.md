@@ -1,2 +1,2 @@
 # BirthdayPalindromeCheck
-It checks if your birthdate is palindrome or not. 
+It checks if your birthdate is palindrome or not.
